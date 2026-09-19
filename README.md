@@ -98,7 +98,10 @@ make
 make flash
 ```
 
-## 💻 Simulation & Telemetry Dashboard
+## 💻 Simulation ## 💻 Simulation & Telemetry Dashboard Telemetry Dashboard
+
+![Simulation Demo](docs/simulation_demo.png)
+
 
 If you don't have the hardware board yet, or want to visualize the output of the RTOS on your PC, you can use the included Python Telemetry Dashboard.
 
