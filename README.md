@@ -1,4 +1,4 @@
-# ZenithOS: A Custom Preemptive RTOS for ARM Cortex-M4
+# A Custom Preemptive RTOS for ARM Cortex-M4
 
 I built ZenithOS as a personal project to deeply understand how a Real-Time Operating System works under the hood, rather than just using FreeRTOS as a black box. It's a minimal, preemptive kernel written from scratch in C and ARM Assembly, specifically targeting the STM32F4 series (Cortex-M4).
 
